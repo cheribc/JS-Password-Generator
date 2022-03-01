@@ -54,7 +54,7 @@ function generatePassword () {
   }
 
   // for loop to randomly generate the password characters using the specified variables
- 
+  
   for (var i = 0; i < passwordLength; i++) {
     var randomNumber = Math.floor(Math.random() * lowerChar.length);
     password += lowerChar.substring(randomNumber, randomNumber + 1);
