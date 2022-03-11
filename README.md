@@ -9,7 +9,11 @@ This application was a bootcamp homework assignment to modify starter code to cr
 ![app-demo1](images/app-demo1.png)
 
 ---
-![app-prompt](images/app-prompt.png)
+![app-prompt](images/user-prompt-demo.png)
+
+---
+
+![generated-password](images/generated-password.png)
 
 ### How to Use:
 - Click the button to generate a password
