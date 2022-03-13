@@ -24,6 +24,10 @@ This application was a bootcamp homework assignment to modify starter code to cr
 
 ---
 
+[Link to Deployed Application](https://cheribc.github.io/JS-Password-Generator/)
+
+---
+
 #### Technology Used
 
 - HTML
